@@ -1,0 +1,8 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Scalar function which return one value",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  }
+}

@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition basics'
+define service ZBSH_AB_SD {
+  expose ZBSH_AB_ASSOCIATION as SalesOrder;
+}

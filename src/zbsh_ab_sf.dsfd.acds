@@ -1,0 +1,5 @@
+define scalar function ZBSH_AB_SF
+  with parameters
+    portion: numeric,
+    total: type of portion
+  returns abap.decfloat34

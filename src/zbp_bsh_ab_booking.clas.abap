@@ -1,0 +1,5 @@
+CLASS zbp_bsh_ab_booking DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zbsh_ab_travel.
+ENDCLASS.
+
+CLASS zbp_bsh_ab_booking IMPLEMENTATION.
+ENDCLASS.

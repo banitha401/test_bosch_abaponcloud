@@ -1,0 +1,14 @@
+@EndUserText.label: 'sd FOR tRAVEL'
+define service Zbsh_ab_sd_travel_processor {
+  expose ZBSH_AB_TRAVEL_PROCESSOR;
+  expose ZBSH_AB_BOOKING_PROCESSOR;
+  expose ZBSH_AB_BOOKSUPPL_PROCESSOR;
+  expose I_Currency                  as Currency;
+  expose /DMO/I_Customer             as Customer;
+  expose /DMO/I_Agency               as Agency;
+  expose /DMO/I_Booking_Status_VH    as BookingStatus;
+  expose /DMO/I_Connection           as Connection;
+  expose /DMO/I_Carrier              as Carrier;
+  expose /DMO/I_SupplementText       as SupplementText;
+  expose /DMO/I_Supplement           as Supplement;
+}
